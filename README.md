@@ -23,11 +23,18 @@ The project demonstrates end-to-end data analytics, including SQL querying, KPI 
 
 
 ## Problem Statement
-Marketing teams invest significant budgets across multiple channels such as Email Marketing, Social Media, Search Ads, Display Ads, and Affiliate Marketing.
+"The problem I wanted to solve was that companies run marketing campaigns across multiple channels, but it can be difficult to understand which campaigns are actually performing well."
 
-However, identifying which campaigns generate the highest revenue and ROI can be challenging.
-
-This project provides a data-driven solution for analyzing campaign performance and optimizing marketing investments.
+A company may spend money on Email, Social Media, Search Ads, Display Ads, and Affiliate Marketing, but simply knowing the total revenue is not enough.
+The business needs to know:
+- Which campaign generates the most revenue?
+- Which channel generates the most conversions?
+- Which campaigns provide better ROI?
+- How much does the company spend to acquire customers?
+- Which customer segments respond better to campaigns?
+- How do clicks and conversions change over time?
+- Which campaigns are performing poorly despite high spending?
+Therefore, I developed a Marketing Campaign Performance Analytics solution using MySQL, SQL, and Power BI to analyze campaign performance and provide actionable business insights.
 
 
 ## 📊 Power BI Dashboards
