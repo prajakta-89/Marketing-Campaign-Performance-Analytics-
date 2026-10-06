@@ -34,6 +34,7 @@ The business needs to know:
 - Which customer segments respond better to campaigns?
 - How do clicks and conversions change over time?
 - Which campaigns are performing poorly despite high spending?
+
 Therefore, I developed a Marketing Campaign Performance Analytics solution using MySQL, SQL, and Power BI to analyze campaign performance and provide actionable business insights.
 
 
