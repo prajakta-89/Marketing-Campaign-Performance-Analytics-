@@ -39,6 +39,10 @@ This project provides a data-driven solution for analyzing campaign performance 
   <img src="Campaign_performance_dashboards/Dash2.png" width="800"/>
 </p>
 
+<p>
+  <img src="Campaign_performance_dashboards/Dash3.png" width="800"/>
+</p>
+
 
 ## Project Objectives
 - Measure campaign performance
