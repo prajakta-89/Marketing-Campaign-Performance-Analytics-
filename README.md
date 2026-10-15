@@ -39,14 +39,17 @@ Therefore, I developed a Marketing Campaign Performance Analytics solution using
 
 
 ## 📊 Power BI Dashboards
+### Marketing Campaign performance
 <p>
   <img src="Campaign_performance_dashboards/Dash1.png" width="800"/>
 </p>
 
+### Customer And Channel performance
 <p>
   <img src="Campaign_performance_dashboards/Dash2.png" width="800"/>
 </p>
 
+### Campaign Optimization And Budget Strategy
 <p>
   <img src="Campaign_performance_dashboards/Dash3.png" width="800"/>
 </p>
